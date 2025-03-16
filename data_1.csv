@@ -1,0 +1,1001 @@
+Age_Group,Income_Level,City,Occupation,Tech_Adoption,Vehicle_Usage,Willingness_to_Pay,Expected_Price_Range
+26-35,Low,Hyderabad,Doctor,Average User,Occasional Travel,Medium,20L-30L
+60+,Middle,Kolkata,Driver,Late Adopter,Long Trips,Medium,<10L
+46-60,High,Bangalore,Driver,Average User,Long Trips,High,30L+
+36-45,Middle,Kolkata,Driver,Average User,Daily Commute,Medium,20L-30L
+26-35,High,Hyderabad,Business Owner,Average User,Daily Commute,High,<10L
+26-35,Middle,Pune,Driver,Late Adopter,Daily Commute,Low,30L+
+18-25,Middle,Ahmedabad,Teacher,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,High,Mumbai,Doctor,Early Adopter,Occasional Travel,High,<10L
+36-45,Low,Ahmedabad,Retail Worker,Average User,Occasional Travel,Low,20L-30L
+46-60,Middle,Ahmedabad,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+18-25,Low,Pune,Student,Average User,Daily Commute,Low,20L-30L
+60+,High,Kolkata,Retail Worker,Average User,Daily Commute,Medium,20L-30L
+46-60,High,Mumbai,Business Owner,Average User,Occasional Travel,Medium,30L+
+26-35,Low,Delhi,Teacher,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Chennai,Student,Average User,Occasional Travel,Low,10L-20L
+26-35,High,Pune,Student,Average User,Daily Commute,Low,20L-30L
+26-35,Low,Hyderabad,Student,Average User,Long Trips,Low,<10L
+36-45,Middle,Delhi,Student,Average User,Long Trips,Medium,10L-20L
+26-35,High,Chennai,Retail Worker,Early Adopter,Daily Commute,Medium,10L-20L
+26-35,Low,Hyderabad,Retail Worker,Late Adopter,Daily Commute,High,<10L
+36-45,Middle,Ahmedabad,Doctor,Average User,Occasional Travel,Medium,10L-20L
+18-25,Low,Bangalore,Driver,Average User,Daily Commute,Medium,30L+
+26-35,High,Hyderabad,Mechanic,Average User,Occasional Travel,High,30L+
+26-35,High,Mumbai,Doctor,Average User,Long Trips,Medium,<10L
+36-45,High,Mumbai,Doctor,Early Adopter,Occasional Travel,High,<10L
+46-60,Middle,Bangalore,Teacher,Average User,Long Trips,Medium,10L-20L
+26-35,High,Delhi,Teacher,Late Adopter,Daily Commute,Low,30L+
+36-45,High,Chennai,Driver,Average User,Daily Commute,Low,<10L
+36-45,Low,Hyderabad,Mechanic,Average User,Long Trips,Medium,20L-30L
+18-25,High,Mumbai,Teacher,Average User,Daily Commute,Low,<10L
+36-45,Low,Delhi,Driver,Early Adopter,Occasional Travel,Medium,20L-30L
+26-35,Middle,Bangalore,Driver,Average User,Daily Commute,Medium,10L-20L
+18-25,Low,Kolkata,Retail Worker,Late Adopter,Daily Commute,Medium,20L-30L
+60+,Low,Pune,Software Engineer,Early Adopter,Business Use,Medium,<10L
+60+,Low,Kolkata,Retail Worker,Average User,Daily Commute,Low,20L-30L
+46-60,Middle,Kolkata,Mechanic,Average User,Business Use,Medium,<10L
+26-35,Low,Mumbai,Teacher,Average User,Business Use,Medium,20L-30L
+18-25,Middle,Ahmedabad,Mechanic,Late Adopter,Long Trips,High,30L+
+36-45,Low,Ahmedabad,Doctor,Early Adopter,Occasional Travel,Medium,<10L
+26-35,Low,Bangalore,Doctor,Average User,Occasional Travel,High,30L+
+18-25,Middle,Hyderabad,Mechanic,Early Adopter,Long Trips,Medium,10L-20L
+36-45,Middle,Ahmedabad,Software Engineer,Late Adopter,Daily Commute,Medium,<10L
+18-25,Low,Kolkata,Software Engineer,Early Adopter,Occasional Travel,Low,10L-20L
+60+,Middle,Ahmedabad,Retail Worker,Average User,Occasional Travel,Medium,<10L
+26-35,High,Kolkata,Mechanic,Average User,Occasional Travel,Medium,20L-30L
+36-45,Middle,Chennai,Teacher,Average User,Occasional Travel,Medium,20L-30L
+26-35,Low,Mumbai,Retail Worker,Average User,Daily Commute,Medium,<10L
+36-45,Low,Mumbai,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+36-45,High,Hyderabad,Software Engineer,Average User,Long Trips,Medium,20L-30L
+26-35,Low,Ahmedabad,Student,Average User,Daily Commute,Medium,30L+
+60+,High,Ahmedabad,Retail Worker,Early Adopter,Business Use,Low,10L-20L
+46-60,Middle,Pune,Doctor,Average User,Occasional Travel,High,30L+
+60+,High,Delhi,Retail Worker,Average User,Long Trips,Low,10L-20L
+46-60,Middle,Chennai,Mechanic,Average User,Occasional Travel,Low,10L-20L
+36-45,High,Mumbai,Student,Average User,Long Trips,Medium,20L-30L
+60+,Middle,Chennai,Mechanic,Late Adopter,Daily Commute,Medium,10L-20L
+18-25,Middle,Mumbai,Driver,Average User,Long Trips,Medium,10L-20L
+26-35,Middle,Chennai,Doctor,Early Adopter,Daily Commute,Low,10L-20L
+18-25,Middle,Bangalore,Doctor,Early Adopter,Long Trips,Medium,20L-30L
+26-35,Middle,Kolkata,Software Engineer,Late Adopter,Business Use,Medium,20L-30L
+26-35,High,Mumbai,Retail Worker,Average User,Daily Commute,High,10L-20L
+26-35,High,Chennai,Software Engineer,Early Adopter,Daily Commute,High,10L-20L
+46-60,Middle,Ahmedabad,Student,Average User,Long Trips,Medium,10L-20L
+26-35,Middle,Delhi,Retail Worker,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Bangalore,Driver,Average User,Long Trips,Medium,<10L
+36-45,Middle,Bangalore,Mechanic,Average User,Daily Commute,Low,20L-30L
+18-25,Low,Delhi,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,Low,Chennai,Doctor,Late Adopter,Business Use,Medium,10L-20L
+18-25,Middle,Ahmedabad,Student,Average User,Occasional Travel,High,<10L
+60+,Low,Hyderabad,Business Owner,Average User,Long Trips,Low,<10L
+46-60,Low,Delhi,Student,Average User,Daily Commute,Medium,30L+
+26-35,Low,Chennai,Teacher,Average User,Occasional Travel,Medium,10L-20L
+18-25,Low,Delhi,Student,Average User,Occasional Travel,Medium,<10L
+46-60,Low,Delhi,Driver,Average User,Occasional Travel,Low,10L-20L
+46-60,High,Mumbai,Teacher,Average User,Occasional Travel,High,10L-20L
+46-60,Middle,Chennai,Teacher,Late Adopter,Occasional Travel,Medium,<10L
+46-60,Middle,Hyderabad,Retail Worker,Late Adopter,Occasional Travel,Medium,10L-20L
+18-25,Middle,Kolkata,Retail Worker,Early Adopter,Daily Commute,Low,10L-20L
+26-35,Low,Mumbai,Teacher,Early Adopter,Long Trips,Medium,10L-20L
+18-25,High,Delhi,Business Owner,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Kolkata,Retail Worker,Average User,Occasional Travel,Low,10L-20L
+36-45,Low,Pune,Student,Late Adopter,Daily Commute,Low,30L+
+26-35,Middle,Kolkata,Driver,Early Adopter,Occasional Travel,High,10L-20L
+18-25,High,Delhi,Student,Average User,Long Trips,Low,10L-20L
+26-35,High,Delhi,Business Owner,Average User,Daily Commute,Low,<10L
+26-35,Middle,Ahmedabad,Doctor,Average User,Daily Commute,Medium,10L-20L
+46-60,Middle,Chennai,Software Engineer,Average User,Daily Commute,Medium,20L-30L
+36-45,Low,Chennai,Driver,Early Adopter,Occasional Travel,Low,<10L
+46-60,High,Mumbai,Retail Worker,Average User,Long Trips,Medium,20L-30L
+36-45,Low,Hyderabad,Driver,Average User,Daily Commute,Low,<10L
+18-25,High,Mumbai,Student,Average User,Long Trips,Low,10L-20L
+46-60,Middle,Bangalore,Software Engineer,Late Adopter,Daily Commute,Low,20L-30L
+46-60,Middle,Delhi,Mechanic,Average User,Occasional Travel,High,10L-20L
+36-45,Middle,Kolkata,Mechanic,Late Adopter,Business Use,Low,10L-20L
+46-60,Low,Pune,Retail Worker,Early Adopter,Daily Commute,Low,<10L
+36-45,Low,Delhi,Business Owner,Average User,Occasional Travel,Medium,20L-30L
+36-45,Low,Delhi,Mechanic,Late Adopter,Daily Commute,High,<10L
+26-35,Low,Mumbai,Driver,Early Adopter,Daily Commute,Low,30L+
+18-25,Middle,Pune,Mechanic,Early Adopter,Daily Commute,Medium,<10L
+18-25,Middle,Pune,Doctor,Average User,Daily Commute,Low,30L+
+18-25,Low,Pune,Doctor,Early Adopter,Occasional Travel,Medium,10L-20L
+36-45,High,Mumbai,Retail Worker,Average User,Occasional Travel,Medium,20L-30L
+26-35,High,Delhi,Doctor,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,High,Mumbai,Mechanic,Average User,Daily Commute,Medium,30L+
+60+,High,Chennai,Business Owner,Average User,Daily Commute,Medium,<10L
+26-35,Low,Chennai,Teacher,Average User,Occasional Travel,Low,<10L
+26-35,Middle,Mumbai,Teacher,Average User,Business Use,Medium,10L-20L
+46-60,Middle,Pune,Retail Worker,Early Adopter,Daily Commute,Low,<10L
+26-35,Middle,Ahmedabad,Software Engineer,Average User,Long Trips,Medium,<10L
+18-25,Low,Delhi,Teacher,Average User,Occasional Travel,High,30L+
+26-35,High,Mumbai,Teacher,Average User,Occasional Travel,High,30L+
+26-35,Low,Mumbai,Doctor,Early Adopter,Occasional Travel,High,10L-20L
+60+,Low,Mumbai,Doctor,Average User,Daily Commute,Medium,30L+
+46-60,Middle,Ahmedabad,Mechanic,Early Adopter,Daily Commute,Medium,10L-20L
+36-45,Middle,Ahmedabad,Retail Worker,Early Adopter,Occasional Travel,Low,10L-20L
+46-60,Middle,Bangalore,Software Engineer,Late Adopter,Daily Commute,Medium,20L-30L
+46-60,Low,Chennai,Retail Worker,Average User,Business Use,Medium,20L-30L
+26-35,High,Kolkata,Student,Early Adopter,Occasional Travel,Medium,30L+
+46-60,Low,Pune,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+36-45,Low,Hyderabad,Software Engineer,Early Adopter,Long Trips,Low,20L-30L
+46-60,High,Ahmedabad,Software Engineer,Average User,Daily Commute,Medium,<10L
+46-60,High,Kolkata,Business Owner,Early Adopter,Occasional Travel,High,<10L
+26-35,High,Ahmedabad,Retail Worker,Early Adopter,Occasional Travel,Low,<10L
+18-25,High,Pune,Mechanic,Average User,Business Use,Medium,30L+
+26-35,Middle,Hyderabad,Business Owner,Average User,Long Trips,High,20L-30L
+26-35,Middle,Bangalore,Software Engineer,Average User,Occasional Travel,Medium,20L-30L
+46-60,Low,Mumbai,Software Engineer,Average User,Occasional Travel,Medium,10L-20L
+46-60,Middle,Bangalore,Software Engineer,Early Adopter,Business Use,Low,10L-20L
+18-25,Middle,Ahmedabad,Teacher,Late Adopter,Daily Commute,Medium,<10L
+36-45,Low,Bangalore,Retail Worker,Late Adopter,Daily Commute,High,10L-20L
+26-35,Middle,Kolkata,Driver,Late Adopter,Daily Commute,Medium,10L-20L
+26-35,Middle,Delhi,Driver,Late Adopter,Daily Commute,Medium,20L-30L
+18-25,Low,Ahmedabad,Business Owner,Late Adopter,Occasional Travel,Low,10L-20L
+26-35,Low,Ahmedabad,Software Engineer,Average User,Occasional Travel,Low,<10L
+60+,Middle,Kolkata,Driver,Early Adopter,Occasional Travel,High,<10L
+26-35,Low,Chennai,Doctor,Average User,Daily Commute,Medium,<10L
+36-45,High,Hyderabad,Retail Worker,Average User,Long Trips,Medium,10L-20L
+46-60,Middle,Mumbai,Driver,Average User,Daily Commute,Low,30L+
+26-35,Middle,Kolkata,Mechanic,Average User,Occasional Travel,Medium,20L-30L
+60+,Middle,Hyderabad,Retail Worker,Early Adopter,Occasional Travel,High,20L-30L
+60+,High,Pune,Mechanic,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Hyderabad,Driver,Late Adopter,Daily Commute,Low,10L-20L
+36-45,Middle,Pune,Doctor,Average User,Daily Commute,Medium,<10L
+26-35,Middle,Kolkata,Mechanic,Average User,Long Trips,Medium,30L+
+26-35,Low,Ahmedabad,Teacher,Average User,Business Use,Medium,20L-30L
+18-25,High,Ahmedabad,Driver,Average User,Occasional Travel,High,<10L
+36-45,Middle,Chennai,Teacher,Late Adopter,Daily Commute,Medium,10L-20L
+36-45,Middle,Kolkata,Driver,Average User,Occasional Travel,High,10L-20L
+18-25,High,Pune,Student,Late Adopter,Long Trips,Medium,20L-30L
+26-35,High,Hyderabad,Student,Average User,Long Trips,Low,30L+
+60+,Middle,Hyderabad,Student,Average User,Daily Commute,Medium,10L-20L
+26-35,High,Pune,Mechanic,Early Adopter,Daily Commute,Low,10L-20L
+18-25,Middle,Bangalore,Teacher,Average User,Long Trips,High,<10L
+36-45,Middle,Chennai,Teacher,Average User,Daily Commute,Medium,<10L
+60+,Middle,Delhi,Teacher,Average User,Daily Commute,Medium,<10L
+26-35,Middle,Ahmedabad,Doctor,Average User,Daily Commute,Medium,<10L
+36-45,Low,Mumbai,Teacher,Late Adopter,Occasional Travel,Low,20L-30L
+46-60,High,Hyderabad,Doctor,Early Adopter,Long Trips,Medium,20L-30L
+26-35,High,Mumbai,Student,Late Adopter,Business Use,Medium,<10L
+46-60,Low,Delhi,Student,Average User,Occasional Travel,Low,20L-30L
+26-35,High,Kolkata,Mechanic,Average User,Occasional Travel,Medium,<10L
+36-45,Low,Mumbai,Driver,Early Adopter,Daily Commute,Low,10L-20L
+36-45,Low,Delhi,Student,Average User,Occasional Travel,Medium,<10L
+36-45,Middle,Ahmedabad,Driver,Average User,Daily Commute,Medium,10L-20L
+18-25,Low,Pune,Driver,Early Adopter,Occasional Travel,Low,10L-20L
+46-60,High,Bangalore,Retail Worker,Average User,Daily Commute,High,10L-20L
+26-35,High,Ahmedabad,Mechanic,Late Adopter,Daily Commute,Low,10L-20L
+26-35,Middle,Hyderabad,Software Engineer,Early Adopter,Daily Commute,Low,30L+
+18-25,Low,Delhi,Software Engineer,Late Adopter,Daily Commute,Low,<10L
+36-45,Low,Mumbai,Business Owner,Average User,Daily Commute,Medium,<10L
+36-45,Middle,Hyderabad,Retail Worker,Average User,Daily Commute,Medium,<10L
+18-25,High,Bangalore,Mechanic,Average User,Business Use,Medium,20L-30L
+36-45,Middle,Pune,Business Owner,Early Adopter,Occasional Travel,Low,<10L
+26-35,Low,Kolkata,Business Owner,Early Adopter,Occasional Travel,Low,20L-30L
+36-45,Middle,Hyderabad,Retail Worker,Early Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Kolkata,Software Engineer,Early Adopter,Business Use,High,10L-20L
+36-45,Middle,Delhi,Mechanic,Average User,Occasional Travel,High,10L-20L
+26-35,Low,Bangalore,Software Engineer,Late Adopter,Long Trips,Low,<10L
+60+,Middle,Mumbai,Business Owner,Late Adopter,Daily Commute,Medium,<10L
+18-25,Middle,Bangalore,Mechanic,Average User,Daily Commute,High,10L-20L
+26-35,High,Bangalore,Business Owner,Early Adopter,Occasional Travel,Medium,10L-20L
+18-25,Low,Chennai,Teacher,Average User,Occasional Travel,High,<10L
+60+,Middle,Bangalore,Retail Worker,Average User,Occasional Travel,Low,<10L
+46-60,High,Bangalore,Driver,Early Adopter,Daily Commute,High,30L+
+26-35,Low,Ahmedabad,Mechanic,Average User,Daily Commute,Medium,<10L
+36-45,High,Hyderabad,Mechanic,Average User,Occasional Travel,High,20L-30L
+46-60,Middle,Mumbai,Driver,Average User,Daily Commute,Medium,20L-30L
+36-45,Low,Ahmedabad,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+36-45,Low,Ahmedabad,Teacher,Late Adopter,Occasional Travel,High,<10L
+26-35,Middle,Hyderabad,Doctor,Late Adopter,Long Trips,Low,<10L
+18-25,Low,Hyderabad,Driver,Average User,Long Trips,Medium,20L-30L
+46-60,Middle,Delhi,Retail Worker,Late Adopter,Long Trips,Medium,20L-30L
+60+,Low,Hyderabad,Software Engineer,Late Adopter,Occasional Travel,Medium,20L-30L
+36-45,Middle,Chennai,Business Owner,Average User,Long Trips,High,30L+
+26-35,Low,Chennai,Driver,Average User,Occasional Travel,Low,20L-30L
+26-35,High,Ahmedabad,Driver,Average User,Daily Commute,Medium,<10L
+46-60,High,Kolkata,Mechanic,Late Adopter,Daily Commute,Medium,<10L
+46-60,High,Delhi,Software Engineer,Late Adopter,Daily Commute,Low,20L-30L
+46-60,Middle,Kolkata,Software Engineer,Early Adopter,Occasional Travel,Medium,<10L
+46-60,Low,Kolkata,Retail Worker,Average User,Occasional Travel,Low,<10L
+36-45,Middle,Ahmedabad,Software Engineer,Average User,Long Trips,Medium,20L-30L
+18-25,Low,Pune,Driver,Average User,Daily Commute,High,10L-20L
+26-35,Low,Ahmedabad,Doctor,Early Adopter,Daily Commute,Medium,30L+
+46-60,Low,Mumbai,Student,Late Adopter,Business Use,Medium,20L-30L
+36-45,Middle,Mumbai,Business Owner,Average User,Daily Commute,High,<10L
+18-25,Middle,Hyderabad,Student,Late Adopter,Occasional Travel,Medium,30L+
+18-25,Middle,Hyderabad,Driver,Late Adopter,Occasional Travel,High,10L-20L
+36-45,Middle,Pune,Student,Average User,Occasional Travel,Medium,10L-20L
+18-25,Low,Hyderabad,Driver,Average User,Daily Commute,High,10L-20L
+26-35,High,Mumbai,Student,Average User,Daily Commute,Low,<10L
+36-45,Middle,Kolkata,Software Engineer,Early Adopter,Daily Commute,High,10L-20L
+36-45,Middle,Ahmedabad,Teacher,Average User,Occasional Travel,Low,<10L
+36-45,Low,Bangalore,Software Engineer,Early Adopter,Occasional Travel,Medium,10L-20L
+26-35,Middle,Chennai,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+46-60,Middle,Bangalore,Retail Worker,Early Adopter,Occasional Travel,Medium,20L-30L
+26-35,Low,Bangalore,Mechanic,Early Adopter,Long Trips,Medium,20L-30L
+26-35,Low,Mumbai,Mechanic,Early Adopter,Daily Commute,Medium,<10L
+46-60,Middle,Bangalore,Student,Early Adopter,Occasional Travel,Medium,10L-20L
+36-45,Middle,Ahmedabad,Driver,Average User,Occasional Travel,Low,10L-20L
+46-60,Low,Pune,Retail Worker,Average User,Daily Commute,Low,<10L
+36-45,High,Delhi,Software Engineer,Average User,Daily Commute,Low,20L-30L
+36-45,Low,Hyderabad,Retail Worker,Early Adopter,Occasional Travel,Medium,20L-30L
+18-25,Middle,Delhi,Student,Early Adopter,Long Trips,Low,<10L
+26-35,High,Kolkata,Mechanic,Early Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Ahmedabad,Teacher,Early Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Ahmedabad,Business Owner,Late Adopter,Long Trips,Low,20L-30L
+60+,Middle,Chennai,Student,Early Adopter,Daily Commute,Medium,<10L
+26-35,Low,Ahmedabad,Retail Worker,Average User,Occasional Travel,High,30L+
+46-60,High,Hyderabad,Teacher,Early Adopter,Occasional Travel,Low,20L-30L
+36-45,Middle,Ahmedabad,Business Owner,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,High,Bangalore,Doctor,Average User,Long Trips,Medium,10L-20L
+36-45,Low,Chennai,Student,Average User,Occasional Travel,Medium,30L+
+36-45,Low,Hyderabad,Student,Early Adopter,Daily Commute,Medium,10L-20L
+36-45,Low,Pune,Doctor,Early Adopter,Business Use,Medium,<10L
+26-35,Middle,Pune,Doctor,Average User,Daily Commute,Medium,10L-20L
+46-60,Middle,Pune,Student,Early Adopter,Daily Commute,Low,20L-30L
+26-35,High,Pune,Doctor,Early Adopter,Daily Commute,Medium,20L-30L
+18-25,Middle,Bangalore,Software Engineer,Late Adopter,Long Trips,Medium,20L-30L
+36-45,High,Ahmedabad,Business Owner,Average User,Long Trips,Low,30L+
+26-35,Low,Delhi,Business Owner,Average User,Daily Commute,Medium,30L+
+60+,High,Hyderabad,Business Owner,Average User,Occasional Travel,High,30L+
+60+,Middle,Bangalore,Software Engineer,Average User,Daily Commute,Medium,<10L
+60+,Middle,Pune,Driver,Average User,Long Trips,Medium,10L-20L
+26-35,High,Kolkata,Doctor,Average User,Occasional Travel,High,20L-30L
+18-25,Middle,Ahmedabad,Teacher,Average User,Occasional Travel,Medium,20L-30L
+60+,Middle,Delhi,Doctor,Early Adopter,Business Use,Medium,20L-30L
+26-35,Low,Kolkata,Student,Average User,Daily Commute,Medium,<10L
+60+,Low,Chennai,Mechanic,Average User,Daily Commute,High,20L-30L
+60+,High,Kolkata,Retail Worker,Late Adopter,Occasional Travel,Medium,20L-30L
+46-60,Middle,Chennai,Retail Worker,Average User,Business Use,Medium,<10L
+26-35,Middle,Chennai,Business Owner,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Pune,Doctor,Early Adopter,Daily Commute,High,<10L
+46-60,Low,Chennai,Teacher,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Mumbai,Student,Early Adopter,Occasional Travel,Low,<10L
+26-35,Middle,Hyderabad,Software Engineer,Average User,Daily Commute,High,10L-20L
+36-45,Middle,Hyderabad,Driver,Early Adopter,Occasional Travel,Medium,10L-20L
+60+,Low,Pune,Software Engineer,Average User,Business Use,Low,20L-30L
+36-45,Middle,Mumbai,Teacher,Early Adopter,Occasional Travel,Medium,20L-30L
+36-45,Low,Kolkata,Student,Average User,Daily Commute,Medium,20L-30L
+18-25,Middle,Bangalore,Business Owner,Late Adopter,Occasional Travel,High,<10L
+36-45,Low,Kolkata,Doctor,Early Adopter,Daily Commute,Low,<10L
+60+,Middle,Ahmedabad,Student,Average User,Long Trips,High,30L+
+18-25,Low,Bangalore,Retail Worker,Average User,Occasional Travel,Medium,<10L
+36-45,Middle,Chennai,Driver,Early Adopter,Daily Commute,Low,30L+
+46-60,Low,Delhi,Software Engineer,Late Adopter,Occasional Travel,High,20L-30L
+46-60,Low,Bangalore,Driver,Early Adopter,Occasional Travel,Medium,10L-20L
+36-45,Middle,Delhi,Driver,Average User,Occasional Travel,Low,30L+
+46-60,Middle,Hyderabad,Teacher,Average User,Daily Commute,Medium,<10L
+26-35,Middle,Delhi,Teacher,Average User,Long Trips,High,10L-20L
+26-35,Low,Hyderabad,Doctor,Average User,Business Use,Medium,20L-30L
+46-60,Middle,Mumbai,Teacher,Average User,Occasional Travel,Low,10L-20L
+46-60,High,Mumbai,Teacher,Early Adopter,Business Use,Low,30L+
+46-60,Middle,Pune,Student,Average User,Daily Commute,Low,<10L
+60+,Low,Pune,Retail Worker,Average User,Occasional Travel,Medium,10L-20L
+36-45,Middle,Chennai,Business Owner,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,Low,Bangalore,Doctor,Late Adopter,Occasional Travel,Low,20L-30L
+46-60,Low,Chennai,Student,Late Adopter,Occasional Travel,Low,10L-20L
+36-45,High,Hyderabad,Business Owner,Average User,Daily Commute,Medium,10L-20L
+46-60,Low,Chennai,Driver,Average User,Daily Commute,High,20L-30L
+46-60,Middle,Delhi,Student,Late Adopter,Daily Commute,Medium,<10L
+46-60,Middle,Hyderabad,Mechanic,Average User,Daily Commute,High,20L-30L
+26-35,Middle,Pune,Student,Early Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Mumbai,Teacher,Late Adopter,Daily Commute,Low,20L-30L
+18-25,Low,Pune,Business Owner,Late Adopter,Daily Commute,High,20L-30L
+36-45,Low,Bangalore,Doctor,Average User,Occasional Travel,Medium,<10L
+18-25,Middle,Hyderabad,Doctor,Early Adopter,Occasional Travel,Medium,10L-20L
+36-45,Low,Hyderabad,Business Owner,Average User,Long Trips,High,30L+
+36-45,Middle,Delhi,Teacher,Late Adopter,Occasional Travel,Low,10L-20L
+26-35,Low,Bangalore,Software Engineer,Late Adopter,Daily Commute,Low,30L+
+36-45,Low,Mumbai,Student,Early Adopter,Long Trips,Medium,10L-20L
+18-25,Middle,Kolkata,Teacher,Early Adopter,Occasional Travel,Low,<10L
+18-25,Low,Hyderabad,Mechanic,Late Adopter,Daily Commute,Low,10L-20L
+46-60,Middle,Hyderabad,Retail Worker,Average User,Occasional Travel,Low,30L+
+26-35,Middle,Delhi,Driver,Average User,Business Use,Low,10L-20L
+18-25,High,Chennai,Business Owner,Late Adopter,Daily Commute,Medium,30L+
+36-45,Low,Ahmedabad,Retail Worker,Early Adopter,Daily Commute,Low,30L+
+46-60,Low,Mumbai,Student,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Pune,Doctor,Early Adopter,Daily Commute,Medium,<10L
+36-45,Middle,Bangalore,Driver,Average User,Occasional Travel,Medium,20L-30L
+18-25,Middle,Hyderabad,Retail Worker,Late Adopter,Occasional Travel,Low,10L-20L
+18-25,Low,Hyderabad,Software Engineer,Average User,Daily Commute,Medium,20L-30L
+36-45,High,Pune,Retail Worker,Late Adopter,Business Use,Low,10L-20L
+36-45,Low,Mumbai,Mechanic,Average User,Long Trips,Medium,10L-20L
+36-45,Middle,Ahmedabad,Doctor,Average User,Occasional Travel,High,20L-30L
+46-60,Middle,Chennai,Business Owner,Early Adopter,Long Trips,Medium,10L-20L
+60+,High,Hyderabad,Student,Average User,Daily Commute,Medium,10L-20L
+36-45,Middle,Ahmedabad,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+26-35,High,Mumbai,Driver,Early Adopter,Occasional Travel,Medium,10L-20L
+46-60,Low,Pune,Student,Average User,Long Trips,High,10L-20L
+26-35,High,Delhi,Teacher,Average User,Long Trips,High,20L-30L
+26-35,Low,Chennai,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+18-25,High,Bangalore,Teacher,Average User,Business Use,Medium,10L-20L
+18-25,Middle,Hyderabad,Teacher,Average User,Daily Commute,High,20L-30L
+60+,High,Mumbai,Business Owner,Early Adopter,Long Trips,High,10L-20L
+46-60,Middle,Delhi,Driver,Early Adopter,Business Use,Medium,10L-20L
+36-45,Middle,Bangalore,Software Engineer,Average User,Daily Commute,Medium,30L+
+26-35,Middle,Kolkata,Retail Worker,Average User,Long Trips,Low,20L-30L
+26-35,Middle,Mumbai,Student,Early Adopter,Daily Commute,High,10L-20L
+26-35,Low,Mumbai,Student,Late Adopter,Occasional Travel,Low,20L-30L
+26-35,Low,Bangalore,Mechanic,Late Adopter,Occasional Travel,Medium,<10L
+36-45,Low,Delhi,Doctor,Average User,Occasional Travel,Low,20L-30L
+46-60,Low,Kolkata,Mechanic,Early Adopter,Business Use,Low,10L-20L
+36-45,High,Ahmedabad,Retail Worker,Late Adopter,Occasional Travel,Medium,10L-20L
+26-35,Low,Ahmedabad,Mechanic,Average User,Occasional Travel,High,10L-20L
+60+,High,Pune,Student,Late Adopter,Long Trips,Low,<10L
+46-60,Low,Delhi,Business Owner,Late Adopter,Business Use,Medium,<10L
+36-45,Low,Chennai,Teacher,Late Adopter,Daily Commute,Low,30L+
+36-45,Middle,Hyderabad,Driver,Average User,Business Use,Low,10L-20L
+26-35,Middle,Bangalore,Teacher,Early Adopter,Daily Commute,Medium,10L-20L
+26-35,Middle,Pune,Teacher,Average User,Long Trips,Medium,<10L
+26-35,Middle,Kolkata,Software Engineer,Average User,Daily Commute,Low,<10L
+46-60,Middle,Bangalore,Student,Average User,Daily Commute,Medium,20L-30L
+18-25,Low,Bangalore,Retail Worker,Early Adopter,Occasional Travel,Low,10L-20L
+18-25,High,Delhi,Retail Worker,Early Adopter,Occasional Travel,Medium,10L-20L
+18-25,High,Hyderabad,Driver,Late Adopter,Daily Commute,High,<10L
+18-25,Middle,Chennai,Business Owner,Average User,Daily Commute,High,20L-30L
+46-60,Low,Ahmedabad,Software Engineer,Late Adopter,Occasional Travel,Medium,<10L
+46-60,Middle,Mumbai,Doctor,Late Adopter,Business Use,Medium,<10L
+36-45,Low,Mumbai,Business Owner,Average User,Daily Commute,High,10L-20L
+18-25,Low,Bangalore,Mechanic,Average User,Daily Commute,Low,10L-20L
+36-45,Low,Ahmedabad,Business Owner,Late Adopter,Occasional Travel,High,<10L
+36-45,Middle,Ahmedabad,Business Owner,Average User,Daily Commute,High,20L-30L
+26-35,High,Hyderabad,Teacher,Average User,Long Trips,Low,20L-30L
+26-35,Middle,Kolkata,Business Owner,Early Adopter,Long Trips,Low,20L-30L
+26-35,Middle,Kolkata,Retail Worker,Average User,Occasional Travel,High,10L-20L
+36-45,Middle,Pune,Mechanic,Average User,Daily Commute,Medium,<10L
+36-45,Low,Delhi,Mechanic,Average User,Long Trips,Low,10L-20L
+18-25,Middle,Hyderabad,Student,Early Adopter,Occasional Travel,Low,30L+
+26-35,High,Hyderabad,Business Owner,Average User,Long Trips,Medium,10L-20L
+36-45,Low,Delhi,Teacher,Early Adopter,Occasional Travel,Medium,20L-30L
+36-45,High,Ahmedabad,Business Owner,Early Adopter,Long Trips,Medium,<10L
+46-60,Middle,Kolkata,Doctor,Average User,Occasional Travel,High,10L-20L
+36-45,Middle,Kolkata,Doctor,Late Adopter,Occasional Travel,Low,<10L
+26-35,Middle,Ahmedabad,Teacher,Average User,Business Use,Medium,10L-20L
+18-25,Middle,Kolkata,Student,Early Adopter,Occasional Travel,Medium,30L+
+36-45,High,Bangalore,Student,Early Adopter,Occasional Travel,Medium,30L+
+18-25,High,Hyderabad,Mechanic,Average User,Daily Commute,Low,10L-20L
+36-45,Middle,Mumbai,Mechanic,Average User,Occasional Travel,High,10L-20L
+60+,Low,Delhi,Software Engineer,Late Adopter,Occasional Travel,High,30L+
+36-45,Middle,Kolkata,Teacher,Average User,Daily Commute,Medium,20L-30L
+26-35,High,Pune,Business Owner,Late Adopter,Daily Commute,Medium,<10L
+36-45,Low,Kolkata,Driver,Average User,Occasional Travel,Low,10L-20L
+36-45,Middle,Kolkata,Teacher,Average User,Long Trips,Medium,<10L
+36-45,Middle,Chennai,Software Engineer,Average User,Occasional Travel,Medium,10L-20L
+60+,Middle,Bangalore,Mechanic,Late Adopter,Daily Commute,Medium,10L-20L
+26-35,Low,Delhi,Teacher,Average User,Occasional Travel,High,10L-20L
+60+,Middle,Chennai,Teacher,Average User,Daily Commute,Medium,10L-20L
+60+,High,Chennai,Mechanic,Average User,Occasional Travel,Medium,<10L
+26-35,Low,Pune,Retail Worker,Early Adopter,Daily Commute,Medium,10L-20L
+18-25,Low,Hyderabad,Software Engineer,Average User,Daily Commute,Low,20L-30L
+18-25,High,Pune,Mechanic,Early Adopter,Daily Commute,Medium,20L-30L
+18-25,Low,Hyderabad,Student,Average User,Daily Commute,Medium,10L-20L
+18-25,High,Hyderabad,Business Owner,Average User,Daily Commute,Medium,30L+
+36-45,Middle,Delhi,Mechanic,Average User,Daily Commute,Medium,30L+
+18-25,Low,Kolkata,Software Engineer,Late Adopter,Occasional Travel,Medium,<10L
+26-35,High,Delhi,Doctor,Late Adopter,Occasional Travel,Medium,<10L
+46-60,Middle,Bangalore,Student,Late Adopter,Daily Commute,Medium,20L-30L
+18-25,Middle,Hyderabad,Doctor,Early Adopter,Long Trips,Medium,20L-30L
+46-60,Middle,Chennai,Driver,Early Adopter,Daily Commute,High,30L+
+26-35,Middle,Kolkata,Mechanic,Average User,Occasional Travel,Low,30L+
+18-25,Low,Mumbai,Student,Average User,Daily Commute,Low,20L-30L
+36-45,Middle,Bangalore,Business Owner,Average User,Daily Commute,Medium,10L-20L
+36-45,High,Delhi,Mechanic,Early Adopter,Occasional Travel,Low,<10L
+46-60,Low,Pune,Business Owner,Average User,Occasional Travel,Low,<10L
+46-60,Middle,Bangalore,Retail Worker,Early Adopter,Long Trips,Medium,10L-20L
+46-60,Low,Bangalore,Teacher,Late Adopter,Occasional Travel,Medium,20L-30L
+26-35,Middle,Kolkata,Doctor,Early Adopter,Business Use,Medium,10L-20L
+26-35,Low,Bangalore,Student,Average User,Daily Commute,High,20L-30L
+46-60,High,Bangalore,Business Owner,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Mumbai,Software Engineer,Average User,Daily Commute,High,10L-20L
+60+,Low,Ahmedabad,Business Owner,Average User,Daily Commute,Low,<10L
+26-35,Low,Pune,Software Engineer,Late Adopter,Occasional Travel,Medium,10L-20L
+26-35,Low,Pune,Mechanic,Late Adopter,Occasional Travel,High,20L-30L
+46-60,Middle,Pune,Student,Average User,Daily Commute,Medium,20L-30L
+26-35,Low,Hyderabad,Business Owner,Late Adopter,Business Use,Medium,30L+
+60+,High,Chennai,Driver,Late Adopter,Long Trips,Medium,10L-20L
+46-60,Middle,Ahmedabad,Business Owner,Late Adopter,Daily Commute,Low,10L-20L
+26-35,Low,Pune,Retail Worker,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Bangalore,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Bangalore,Student,Average User,Daily Commute,High,30L+
+18-25,Low,Pune,Retail Worker,Early Adopter,Daily Commute,Low,20L-30L
+60+,Low,Kolkata,Business Owner,Early Adopter,Occasional Travel,High,30L+
+36-45,Low,Pune,Software Engineer,Late Adopter,Daily Commute,High,<10L
+46-60,Middle,Bangalore,Business Owner,Average User,Daily Commute,Low,30L+
+26-35,Middle,Hyderabad,Doctor,Average User,Business Use,Medium,<10L
+46-60,Middle,Delhi,Mechanic,Late Adopter,Occasional Travel,High,30L+
+26-35,High,Delhi,Teacher,Late Adopter,Business Use,High,10L-20L
+18-25,High,Ahmedabad,Software Engineer,Late Adopter,Daily Commute,Medium,10L-20L
+60+,Middle,Ahmedabad,Doctor,Early Adopter,Daily Commute,Medium,10L-20L
+18-25,High,Pune,Driver,Early Adopter,Occasional Travel,Medium,30L+
+26-35,Low,Mumbai,Mechanic,Average User,Daily Commute,Medium,<10L
+60+,Low,Pune,Student,Early Adopter,Daily Commute,Low,10L-20L
+60+,Low,Kolkata,Software Engineer,Early Adopter,Occasional Travel,Medium,30L+
+36-45,Low,Pune,Teacher,Average User,Occasional Travel,Low,10L-20L
+36-45,Middle,Ahmedabad,Mechanic,Late Adopter,Occasional Travel,Low,<10L
+26-35,High,Delhi,Driver,Average User,Occasional Travel,Medium,10L-20L
+26-35,Low,Bangalore,Retail Worker,Average User,Occasional Travel,Medium,10L-20L
+26-35,Low,Pune,Retail Worker,Average User,Daily Commute,Medium,30L+
+36-45,Middle,Bangalore,Teacher,Early Adopter,Daily Commute,Medium,20L-30L
+46-60,High,Bangalore,Student,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,Low,Mumbai,Student,Late Adopter,Daily Commute,Low,30L+
+46-60,Middle,Bangalore,Driver,Average User,Business Use,Medium,10L-20L
+18-25,Low,Delhi,Software Engineer,Late Adopter,Occasional Travel,High,<10L
+36-45,Low,Hyderabad,Driver,Early Adopter,Long Trips,Medium,10L-20L
+18-25,High,Hyderabad,Business Owner,Late Adopter,Daily Commute,Medium,10L-20L
+36-45,High,Chennai,Student,Average User,Daily Commute,Medium,<10L
+26-35,Low,Kolkata,Mechanic,Average User,Daily Commute,High,30L+
+46-60,High,Pune,Business Owner,Average User,Daily Commute,Low,20L-30L
+26-35,Middle,Kolkata,Retail Worker,Late Adopter,Daily Commute,Medium,10L-20L
+18-25,High,Delhi,Retail Worker,Average User,Long Trips,Medium,10L-20L
+18-25,Middle,Bangalore,Doctor,Average User,Occasional Travel,Medium,20L-30L
+46-60,Middle,Hyderabad,Teacher,Late Adopter,Occasional Travel,Low,30L+
+36-45,Middle,Kolkata,Business Owner,Late Adopter,Occasional Travel,Medium,30L+
+18-25,Middle,Delhi,Teacher,Average User,Business Use,Low,10L-20L
+18-25,Low,Hyderabad,Driver,Average User,Daily Commute,Medium,20L-30L
+46-60,Low,Bangalore,Business Owner,Average User,Daily Commute,Medium,10L-20L
+18-25,Low,Kolkata,Driver,Early Adopter,Daily Commute,Low,10L-20L
+46-60,Middle,Hyderabad,Doctor,Average User,Long Trips,High,<10L
+46-60,Low,Pune,Student,Late Adopter,Business Use,Low,<10L
+18-25,Middle,Ahmedabad,Retail Worker,Late Adopter,Daily Commute,High,10L-20L
+18-25,High,Pune,Doctor,Average User,Long Trips,Medium,10L-20L
+60+,Low,Chennai,Retail Worker,Average User,Long Trips,Low,<10L
+26-35,Middle,Chennai,Student,Early Adopter,Daily Commute,Low,20L-30L
+26-35,Middle,Hyderabad,Driver,Late Adopter,Daily Commute,High,<10L
+46-60,High,Ahmedabad,Student,Late Adopter,Occasional Travel,Low,10L-20L
+60+,Low,Delhi,Retail Worker,Average User,Business Use,Low,10L-20L
+60+,Middle,Pune,Retail Worker,Late Adopter,Daily Commute,Medium,30L+
+46-60,High,Delhi,Teacher,Average User,Long Trips,Medium,10L-20L
+26-35,High,Ahmedabad,Mechanic,Average User,Daily Commute,Medium,<10L
+18-25,Middle,Delhi,Doctor,Early Adopter,Long Trips,Low,10L-20L
+46-60,Middle,Ahmedabad,Business Owner,Average User,Occasional Travel,Low,20L-30L
+36-45,Middle,Hyderabad,Retail Worker,Average User,Occasional Travel,Low,30L+
+26-35,High,Delhi,Doctor,Average User,Long Trips,Low,10L-20L
+60+,Middle,Pune,Teacher,Average User,Long Trips,Medium,10L-20L
+18-25,Low,Bangalore,Student,Late Adopter,Long Trips,Medium,30L+
+36-45,High,Chennai,Teacher,Early Adopter,Daily Commute,Low,<10L
+18-25,Middle,Bangalore,Software Engineer,Average User,Occasional Travel,Medium,20L-30L
+36-45,Middle,Delhi,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+18-25,Low,Bangalore,Business Owner,Average User,Occasional Travel,High,<10L
+18-25,Middle,Pune,Teacher,Average User,Occasional Travel,High,10L-20L
+18-25,Middle,Pune,Driver,Average User,Occasional Travel,High,10L-20L
+36-45,Middle,Delhi,Business Owner,Early Adopter,Occasional Travel,Low,20L-30L
+46-60,Low,Hyderabad,Driver,Average User,Business Use,Low,30L+
+36-45,Middle,Bangalore,Business Owner,Average User,Daily Commute,Medium,10L-20L
+60+,High,Hyderabad,Software Engineer,Early Adopter,Occasional Travel,Low,20L-30L
+26-35,Low,Hyderabad,Business Owner,Average User,Daily Commute,Medium,<10L
+26-35,High,Ahmedabad,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+46-60,Middle,Mumbai,Retail Worker,Average User,Daily Commute,High,<10L
+26-35,High,Delhi,Student,Late Adopter,Business Use,High,30L+
+60+,Middle,Chennai,Driver,Early Adopter,Long Trips,Medium,20L-30L
+18-25,Middle,Pune,Teacher,Early Adopter,Business Use,Medium,20L-30L
+60+,Middle,Pune,Retail Worker,Late Adopter,Business Use,Medium,20L-30L
+18-25,High,Delhi,Retail Worker,Average User,Daily Commute,Low,20L-30L
+46-60,Middle,Ahmedabad,Business Owner,Average User,Daily Commute,Medium,30L+
+36-45,Low,Kolkata,Software Engineer,Late Adopter,Occasional Travel,Low,20L-30L
+60+,Middle,Kolkata,Doctor,Late Adopter,Occasional Travel,Medium,30L+
+18-25,High,Kolkata,Driver,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,Middle,Ahmedabad,Retail Worker,Average User,Daily Commute,Medium,<10L
+60+,Middle,Chennai,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+36-45,Middle,Pune,Mechanic,Average User,Occasional Travel,Medium,<10L
+36-45,High,Delhi,Student,Early Adopter,Daily Commute,High,10L-20L
+36-45,Low,Ahmedabad,Student,Average User,Occasional Travel,Low,10L-20L
+36-45,Middle,Pune,Doctor,Average User,Occasional Travel,Medium,20L-30L
+36-45,Low,Hyderabad,Software Engineer,Late Adopter,Occasional Travel,Medium,<10L
+36-45,Low,Bangalore,Business Owner,Average User,Daily Commute,Medium,<10L
+60+,Middle,Bangalore,Driver,Average User,Long Trips,High,10L-20L
+18-25,Middle,Ahmedabad,Software Engineer,Average User,Daily Commute,Low,30L+
+26-35,Middle,Pune,Student,Early Adopter,Daily Commute,Medium,10L-20L
+60+,Middle,Mumbai,Software Engineer,Early Adopter,Long Trips,Medium,10L-20L
+46-60,Middle,Chennai,Student,Average User,Occasional Travel,High,20L-30L
+36-45,Low,Kolkata,Software Engineer,Early Adopter,Daily Commute,Low,20L-30L
+36-45,Middle,Chennai,Doctor,Average User,Occasional Travel,Medium,10L-20L
+26-35,Low,Chennai,Teacher,Late Adopter,Occasional Travel,Medium,10L-20L
+26-35,Low,Ahmedabad,Doctor,Late Adopter,Long Trips,Low,<10L
+36-45,Middle,Hyderabad,Doctor,Average User,Long Trips,Medium,30L+
+26-35,Middle,Chennai,Teacher,Early Adopter,Occasional Travel,Medium,<10L
+36-45,Middle,Bangalore,Teacher,Late Adopter,Occasional Travel,Medium,10L-20L
+18-25,Middle,Hyderabad,Retail Worker,Late Adopter,Daily Commute,High,<10L
+60+,Middle,Delhi,Retail Worker,Early Adopter,Daily Commute,Medium,<10L
+60+,High,Chennai,Business Owner,Average User,Occasional Travel,Medium,20L-30L
+36-45,Middle,Chennai,Driver,Average User,Occasional Travel,Medium,<10L
+36-45,Middle,Delhi,Driver,Late Adopter,Occasional Travel,Low,<10L
+26-35,Low,Chennai,Business Owner,Late Adopter,Daily Commute,Low,10L-20L
+46-60,Low,Delhi,Doctor,Early Adopter,Daily Commute,Medium,<10L
+36-45,Middle,Hyderabad,Doctor,Late Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Bangalore,Student,Average User,Daily Commute,Low,20L-30L
+60+,Middle,Delhi,Student,Late Adopter,Long Trips,Medium,20L-30L
+46-60,Middle,Mumbai,Driver,Average User,Daily Commute,Medium,30L+
+60+,Middle,Ahmedabad,Business Owner,Late Adopter,Occasional Travel,Low,30L+
+46-60,Middle,Ahmedabad,Mechanic,Early Adopter,Business Use,Medium,20L-30L
+36-45,High,Delhi,Retail Worker,Average User,Daily Commute,Low,<10L
+26-35,Middle,Ahmedabad,Mechanic,Early Adopter,Occasional Travel,High,20L-30L
+60+,High,Chennai,Business Owner,Late Adopter,Daily Commute,High,20L-30L
+46-60,Low,Kolkata,Student,Late Adopter,Occasional Travel,Medium,20L-30L
+18-25,Low,Kolkata,Driver,Late Adopter,Occasional Travel,Low,10L-20L
+18-25,Low,Ahmedabad,Driver,Late Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Hyderabad,Student,Early Adopter,Occasional Travel,High,20L-30L
+46-60,High,Pune,Mechanic,Average User,Long Trips,Medium,20L-30L
+60+,Low,Hyderabad,Software Engineer,Early Adopter,Daily Commute,Low,30L+
+26-35,High,Pune,Software Engineer,Early Adopter,Daily Commute,Medium,<10L
+36-45,Low,Kolkata,Student,Early Adopter,Long Trips,High,<10L
+26-35,High,Kolkata,Software Engineer,Average User,Occasional Travel,Medium,<10L
+60+,Middle,Delhi,Teacher,Average User,Long Trips,Medium,20L-30L
+46-60,Low,Bangalore,Business Owner,Early Adopter,Occasional Travel,Medium,<10L
+46-60,Middle,Mumbai,Business Owner,Early Adopter,Long Trips,Medium,<10L
+36-45,Low,Hyderabad,Student,Early Adopter,Occasional Travel,Low,30L+
+26-35,Low,Chennai,Doctor,Late Adopter,Long Trips,Medium,<10L
+26-35,Low,Pune,Retail Worker,Late Adopter,Business Use,Low,20L-30L
+18-25,High,Ahmedabad,Mechanic,Late Adopter,Occasional Travel,Medium,10L-20L
+46-60,Middle,Chennai,Student,Average User,Daily Commute,Low,20L-30L
+46-60,Low,Bangalore,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+60+,Middle,Pune,Mechanic,Late Adopter,Daily Commute,Low,30L+
+60+,Middle,Hyderabad,Doctor,Average User,Daily Commute,Medium,30L+
+36-45,Low,Delhi,Software Engineer,Average User,Daily Commute,Medium,<10L
+46-60,Middle,Chennai,Driver,Early Adopter,Occasional Travel,Low,<10L
+60+,Low,Bangalore,Retail Worker,Early Adopter,Occasional Travel,Low,10L-20L
+46-60,Low,Hyderabad,Teacher,Average User,Occasional Travel,Low,20L-30L
+26-35,Middle,Kolkata,Software Engineer,Average User,Occasional Travel,High,30L+
+36-45,Low,Kolkata,Teacher,Average User,Daily Commute,Medium,10L-20L
+18-25,Middle,Hyderabad,Mechanic,Early Adopter,Daily Commute,Medium,20L-30L
+60+,Middle,Hyderabad,Teacher,Early Adopter,Daily Commute,Low,<10L
+36-45,Low,Hyderabad,Mechanic,Late Adopter,Occasional Travel,Medium,20L-30L
+26-35,Middle,Pune,Mechanic,Early Adopter,Daily Commute,High,30L+
+36-45,Low,Hyderabad,Mechanic,Average User,Daily Commute,High,10L-20L
+36-45,High,Chennai,Mechanic,Late Adopter,Occasional Travel,Medium,10L-20L
+26-35,Middle,Bangalore,Mechanic,Early Adopter,Long Trips,Low,<10L
+18-25,High,Pune,Software Engineer,Early Adopter,Daily Commute,Low,10L-20L
+36-45,Middle,Hyderabad,Mechanic,Average User,Occasional Travel,Low,10L-20L
+36-45,Low,Mumbai,Software Engineer,Average User,Occasional Travel,Low,<10L
+46-60,Middle,Ahmedabad,Mechanic,Average User,Long Trips,Low,10L-20L
+36-45,High,Mumbai,Teacher,Late Adopter,Business Use,Low,10L-20L
+46-60,Middle,Bangalore,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+36-45,High,Kolkata,Mechanic,Average User,Daily Commute,High,10L-20L
+36-45,High,Delhi,Doctor,Average User,Long Trips,Medium,<10L
+46-60,Low,Delhi,Mechanic,Early Adopter,Occasional Travel,High,20L-30L
+26-35,Low,Ahmedabad,Mechanic,Average User,Occasional Travel,Medium,20L-30L
+18-25,Middle,Kolkata,Teacher,Average User,Occasional Travel,Low,10L-20L
+18-25,Middle,Pune,Retail Worker,Average User,Occasional Travel,Medium,<10L
+46-60,High,Pune,Business Owner,Early Adopter,Business Use,Low,20L-30L
+36-45,High,Pune,Teacher,Average User,Business Use,Medium,30L+
+46-60,Middle,Delhi,Doctor,Average User,Long Trips,Medium,<10L
+26-35,Low,Mumbai,Business Owner,Late Adopter,Daily Commute,High,10L-20L
+18-25,Middle,Delhi,Student,Early Adopter,Long Trips,Low,<10L
+18-25,Low,Chennai,Student,Average User,Daily Commute,Low,10L-20L
+26-35,High,Hyderabad,Retail Worker,Average User,Daily Commute,High,<10L
+36-45,Middle,Pune,Doctor,Average User,Long Trips,Low,10L-20L
+26-35,Middle,Mumbai,Teacher,Average User,Daily Commute,Medium,20L-30L
+26-35,Low,Bangalore,Software Engineer,Average User,Daily Commute,Medium,10L-20L
+60+,Middle,Ahmedabad,Doctor,Late Adopter,Daily Commute,High,10L-20L
+26-35,Middle,Bangalore,Driver,Late Adopter,Long Trips,High,10L-20L
+36-45,Middle,Hyderabad,Business Owner,Average User,Occasional Travel,High,10L-20L
+46-60,Low,Mumbai,Business Owner,Average User,Occasional Travel,Low,<10L
+26-35,Middle,Delhi,Mechanic,Late Adopter,Daily Commute,High,<10L
+36-45,High,Delhi,Student,Late Adopter,Long Trips,Medium,30L+
+46-60,Low,Chennai,Retail Worker,Late Adopter,Long Trips,Medium,<10L
+60+,Low,Chennai,Business Owner,Average User,Daily Commute,Low,20L-30L
+18-25,Low,Delhi,Doctor,Early Adopter,Occasional Travel,Medium,30L+
+60+,Middle,Bangalore,Business Owner,Average User,Daily Commute,High,10L-20L
+36-45,Middle,Ahmedabad,Retail Worker,Average User,Business Use,High,10L-20L
+26-35,Middle,Pune,Retail Worker,Average User,Occasional Travel,Medium,10L-20L
+36-45,Low,Bangalore,Retail Worker,Average User,Business Use,Low,30L+
+60+,Middle,Ahmedabad,Doctor,Late Adopter,Daily Commute,Medium,30L+
+36-45,Middle,Chennai,Software Engineer,Average User,Long Trips,High,20L-30L
+26-35,Middle,Hyderabad,Mechanic,Late Adopter,Long Trips,Medium,<10L
+36-45,High,Ahmedabad,Student,Average User,Occasional Travel,Medium,20L-30L
+26-35,Low,Delhi,Business Owner,Average User,Business Use,Low,10L-20L
+18-25,Middle,Chennai,Doctor,Average User,Daily Commute,Medium,10L-20L
+18-25,Middle,Chennai,Teacher,Late Adopter,Daily Commute,Medium,<10L
+18-25,Middle,Pune,Student,Early Adopter,Occasional Travel,High,<10L
+26-35,Middle,Delhi,Software Engineer,Early Adopter,Long Trips,Medium,20L-30L
+18-25,Middle,Pune,Doctor,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,High,Delhi,Driver,Early Adopter,Daily Commute,Medium,10L-20L
+26-35,Low,Pune,Driver,Average User,Occasional Travel,Low,10L-20L
+26-35,Low,Ahmedabad,Mechanic,Average User,Daily Commute,High,30L+
+46-60,Middle,Bangalore,Mechanic,Average User,Occasional Travel,Medium,20L-30L
+36-45,Middle,Hyderabad,Software Engineer,Average User,Occasional Travel,Medium,10L-20L
+36-45,Low,Hyderabad,Software Engineer,Early Adopter,Long Trips,Medium,<10L
+26-35,Low,Delhi,Mechanic,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Mumbai,Business Owner,Average User,Occasional Travel,Medium,30L+
+18-25,High,Kolkata,Business Owner,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Chennai,Doctor,Early Adopter,Daily Commute,Low,10L-20L
+26-35,Low,Chennai,Teacher,Average User,Long Trips,Medium,10L-20L
+26-35,Low,Delhi,Doctor,Early Adopter,Business Use,Low,10L-20L
+18-25,Middle,Ahmedabad,Teacher,Average User,Daily Commute,Medium,20L-30L
+18-25,Low,Pune,Software Engineer,Early Adopter,Long Trips,Low,10L-20L
+36-45,Middle,Mumbai,Student,Early Adopter,Long Trips,Medium,<10L
+26-35,Low,Bangalore,Doctor,Late Adopter,Long Trips,High,<10L
+26-35,High,Pune,Doctor,Average User,Daily Commute,High,10L-20L
+36-45,Low,Pune,Teacher,Late Adopter,Business Use,Medium,30L+
+36-45,Middle,Delhi,Retail Worker,Late Adopter,Daily Commute,Medium,10L-20L
+18-25,High,Delhi,Software Engineer,Average User,Daily Commute,Low,30L+
+46-60,Middle,Ahmedabad,Software Engineer,Early Adopter,Daily Commute,Medium,20L-30L
+36-45,Middle,Chennai,Driver,Average User,Occasional Travel,High,<10L
+18-25,Low,Delhi,Retail Worker,Late Adopter,Daily Commute,Low,<10L
+46-60,Low,Delhi,Teacher,Average User,Daily Commute,Medium,<10L
+60+,Middle,Delhi,Software Engineer,Early Adopter,Daily Commute,High,20L-30L
+18-25,High,Ahmedabad,Retail Worker,Average User,Long Trips,High,<10L
+26-35,Middle,Chennai,Mechanic,Late Adopter,Long Trips,Low,10L-20L
+46-60,Middle,Bangalore,Retail Worker,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Bangalore,Business Owner,Early Adopter,Long Trips,Low,20L-30L
+26-35,Middle,Kolkata,Driver,Average User,Long Trips,Low,<10L
+26-35,Low,Kolkata,Mechanic,Early Adopter,Long Trips,High,10L-20L
+26-35,Middle,Delhi,Student,Early Adopter,Daily Commute,High,10L-20L
+36-45,High,Kolkata,Doctor,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,Low,Chennai,Driver,Early Adopter,Business Use,Low,20L-30L
+26-35,Middle,Ahmedabad,Student,Average User,Occasional Travel,High,<10L
+36-45,Low,Bangalore,Doctor,Early Adopter,Daily Commute,Medium,20L-30L
+46-60,Middle,Pune,Business Owner,Late Adopter,Occasional Travel,Medium,20L-30L
+18-25,Low,Bangalore,Retail Worker,Late Adopter,Occasional Travel,Medium,10L-20L
+26-35,Middle,Bangalore,Software Engineer,Average User,Occasional Travel,Low,20L-30L
+46-60,Middle,Chennai,Mechanic,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Low,Kolkata,Teacher,Early Adopter,Daily Commute,Medium,<10L
+36-45,Middle,Pune,Mechanic,Average User,Long Trips,Low,20L-30L
+36-45,Middle,Chennai,Business Owner,Average User,Long Trips,Low,10L-20L
+18-25,High,Delhi,Student,Early Adopter,Daily Commute,Low,20L-30L
+26-35,Low,Ahmedabad,Teacher,Average User,Business Use,Low,10L-20L
+36-45,Middle,Hyderabad,Software Engineer,Late Adopter,Daily Commute,Medium,30L+
+26-35,Low,Bangalore,Business Owner,Early Adopter,Occasional Travel,High,10L-20L
+26-35,High,Hyderabad,Teacher,Average User,Long Trips,Low,<10L
+26-35,High,Ahmedabad,Business Owner,Early Adopter,Long Trips,Low,10L-20L
+18-25,Middle,Ahmedabad,Retail Worker,Early Adopter,Business Use,Medium,20L-30L
+26-35,High,Chennai,Business Owner,Late Adopter,Daily Commute,High,20L-30L
+26-35,Middle,Chennai,Software Engineer,Average User,Long Trips,Medium,10L-20L
+26-35,Middle,Chennai,Driver,Average User,Daily Commute,Medium,30L+
+18-25,Low,Hyderabad,Doctor,Late Adopter,Long Trips,Medium,10L-20L
+46-60,Middle,Chennai,Teacher,Early Adopter,Long Trips,Low,10L-20L
+36-45,Low,Ahmedabad,Retail Worker,Average User,Occasional Travel,Low,30L+
+36-45,High,Delhi,Software Engineer,Average User,Daily Commute,Medium,30L+
+46-60,Middle,Chennai,Business Owner,Average User,Long Trips,Medium,20L-30L
+36-45,Middle,Mumbai,Retail Worker,Late Adopter,Daily Commute,Medium,30L+
+18-25,Low,Kolkata,Software Engineer,Late Adopter,Daily Commute,Medium,<10L
+36-45,Low,Hyderabad,Driver,Average User,Long Trips,Medium,30L+
+36-45,Low,Mumbai,Retail Worker,Late Adopter,Occasional Travel,Low,10L-20L
+46-60,Middle,Chennai,Retail Worker,Early Adopter,Long Trips,Medium,<10L
+26-35,Low,Ahmedabad,Doctor,Early Adopter,Daily Commute,Low,<10L
+18-25,High,Delhi,Mechanic,Early Adopter,Daily Commute,Low,10L-20L
+26-35,Middle,Bangalore,Teacher,Average User,Long Trips,Medium,10L-20L
+26-35,Low,Pune,Doctor,Average User,Occasional Travel,High,10L-20L
+36-45,Middle,Kolkata,Student,Average User,Daily Commute,High,<10L
+36-45,Middle,Pune,Teacher,Late Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Chennai,Doctor,Average User,Occasional Travel,Low,10L-20L
+60+,Middle,Kolkata,Business Owner,Average User,Occasional Travel,Low,10L-20L
+36-45,High,Kolkata,Teacher,Early Adopter,Occasional Travel,High,10L-20L
+26-35,Middle,Delhi,Teacher,Early Adopter,Long Trips,Medium,20L-30L
+18-25,High,Kolkata,Software Engineer,Average User,Long Trips,Medium,30L+
+26-35,High,Hyderabad,Business Owner,Average User,Long Trips,Medium,20L-30L
+26-35,Low,Mumbai,Student,Late Adopter,Daily Commute,Medium,10L-20L
+26-35,High,Mumbai,Mechanic,Early Adopter,Long Trips,High,20L-30L
+26-35,Low,Mumbai,Retail Worker,Early Adopter,Occasional Travel,Low,<10L
+26-35,High,Hyderabad,Driver,Average User,Occasional Travel,Medium,<10L
+26-35,Middle,Pune,Doctor,Early Adopter,Daily Commute,High,10L-20L
+46-60,High,Delhi,Software Engineer,Early Adopter,Long Trips,Low,20L-30L
+18-25,High,Kolkata,Doctor,Average User,Long Trips,Medium,<10L
+36-45,High,Hyderabad,Student,Early Adopter,Daily Commute,Medium,<10L
+26-35,Middle,Mumbai,Retail Worker,Average User,Occasional Travel,High,<10L
+60+,Low,Chennai,Student,Average User,Long Trips,Low,30L+
+18-25,Low,Bangalore,Teacher,Early Adopter,Daily Commute,Medium,20L-30L
+26-35,Middle,Kolkata,Driver,Average User,Business Use,Low,10L-20L
+60+,Low,Hyderabad,Student,Late Adopter,Occasional Travel,Medium,10L-20L
+46-60,Middle,Ahmedabad,Doctor,Average User,Occasional Travel,Low,10L-20L
+46-60,Low,Hyderabad,Business Owner,Late Adopter,Daily Commute,Low,20L-30L
+26-35,High,Delhi,Business Owner,Early Adopter,Daily Commute,Medium,<10L
+26-35,Middle,Delhi,Teacher,Late Adopter,Business Use,High,30L+
+36-45,High,Hyderabad,Mechanic,Early Adopter,Daily Commute,Low,10L-20L
+60+,Low,Mumbai,Doctor,Average User,Long Trips,Low,20L-30L
+36-45,High,Bangalore,Doctor,Average User,Daily Commute,Medium,<10L
+36-45,High,Kolkata,Student,Late Adopter,Daily Commute,Medium,10L-20L
+26-35,Middle,Delhi,Driver,Average User,Daily Commute,High,10L-20L
+46-60,Middle,Kolkata,Doctor,Early Adopter,Occasional Travel,Low,10L-20L
+26-35,Middle,Mumbai,Software Engineer,Early Adopter,Business Use,Medium,<10L
+26-35,Low,Kolkata,Mechanic,Late Adopter,Daily Commute,Low,20L-30L
+26-35,Middle,Chennai,Student,Average User,Daily Commute,Low,<10L
+36-45,Middle,Delhi,Software Engineer,Late Adopter,Daily Commute,Medium,20L-30L
+26-35,Low,Mumbai,Teacher,Early Adopter,Occasional Travel,Medium,20L-30L
+18-25,Middle,Mumbai,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+36-45,Low,Bangalore,Teacher,Early Adopter,Long Trips,Medium,20L-30L
+26-35,Low,Bangalore,Business Owner,Late Adopter,Occasional Travel,Medium,20L-30L
+36-45,Low,Chennai,Teacher,Average User,Occasional Travel,Medium,10L-20L
+26-35,High,Mumbai,Doctor,Late Adopter,Daily Commute,High,20L-30L
+36-45,Middle,Pune,Software Engineer,Average User,Business Use,Low,10L-20L
+36-45,High,Mumbai,Business Owner,Average User,Daily Commute,Low,10L-20L
+18-25,Middle,Bangalore,Student,Average User,Daily Commute,Medium,20L-30L
+26-35,Low,Pune,Software Engineer,Average User,Occasional Travel,Medium,10L-20L
+18-25,Middle,Delhi,Student,Late Adopter,Occasional Travel,Low,10L-20L
+18-25,Middle,Delhi,Software Engineer,Late Adopter,Occasional Travel,High,10L-20L
+60+,Low,Kolkata,Software Engineer,Late Adopter,Occasional Travel,Low,20L-30L
+26-35,Middle,Hyderabad,Teacher,Average User,Long Trips,High,30L+
+46-60,Low,Bangalore,Business Owner,Average User,Daily Commute,Low,10L-20L
+26-35,Middle,Hyderabad,Business Owner,Average User,Long Trips,Medium,20L-30L
+36-45,Middle,Pune,Driver,Late Adopter,Occasional Travel,High,30L+
+46-60,Low,Bangalore,Software Engineer,Early Adopter,Occasional Travel,Low,<10L
+36-45,Low,Chennai,Doctor,Average User,Occasional Travel,High,<10L
+36-45,Middle,Mumbai,Doctor,Average User,Daily Commute,Medium,20L-30L
+26-35,Middle,Chennai,Student,Average User,Long Trips,High,20L-30L
+26-35,Low,Pune,Student,Late Adopter,Occasional Travel,Medium,30L+
+60+,High,Bangalore,Teacher,Average User,Daily Commute,Medium,10L-20L
+46-60,Low,Ahmedabad,Software Engineer,Average User,Occasional Travel,Low,<10L
+60+,Middle,Pune,Student,Early Adopter,Business Use,Medium,10L-20L
+18-25,High,Ahmedabad,Student,Average User,Occasional Travel,Low,<10L
+46-60,Low,Mumbai,Mechanic,Average User,Business Use,Low,10L-20L
+60+,Low,Delhi,Software Engineer,Average User,Daily Commute,Low,20L-30L
+26-35,Low,Delhi,Retail Worker,Late Adopter,Daily Commute,Medium,<10L
+18-25,Low,Pune,Teacher,Late Adopter,Daily Commute,Medium,20L-30L
+46-60,Low,Hyderabad,Student,Early Adopter,Occasional Travel,Low,10L-20L
+36-45,Middle,Bangalore,Teacher,Average User,Daily Commute,Low,10L-20L
+46-60,Low,Bangalore,Business Owner,Late Adopter,Daily Commute,Medium,<10L
+18-25,Middle,Delhi,Teacher,Early Adopter,Business Use,Low,10L-20L
+46-60,High,Kolkata,Retail Worker,Early Adopter,Long Trips,Low,<10L
+26-35,High,Chennai,Doctor,Early Adopter,Long Trips,Low,30L+
+26-35,Middle,Kolkata,Retail Worker,Average User,Daily Commute,High,20L-30L
+26-35,Low,Mumbai,Doctor,Early Adopter,Daily Commute,High,10L-20L
+46-60,Middle,Chennai,Teacher,Late Adopter,Daily Commute,Medium,<10L
+36-45,Middle,Chennai,Doctor,Average User,Long Trips,Medium,30L+
+36-45,Middle,Pune,Business Owner,Average User,Business Use,Medium,10L-20L
+26-35,Low,Delhi,Software Engineer,Early Adopter,Occasional Travel,Medium,<10L
+46-60,High,Kolkata,Doctor,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Kolkata,Doctor,Average User,Occasional Travel,Medium,30L+
+46-60,Low,Delhi,Teacher,Late Adopter,Daily Commute,Low,<10L
+26-35,Middle,Kolkata,Business Owner,Late Adopter,Daily Commute,Low,<10L
+26-35,Middle,Ahmedabad,Driver,Average User,Occasional Travel,Medium,30L+
+36-45,High,Delhi,Driver,Late Adopter,Long Trips,High,<10L
+26-35,Middle,Pune,Driver,Late Adopter,Daily Commute,Medium,<10L
+46-60,Middle,Hyderabad,Driver,Late Adopter,Daily Commute,High,10L-20L
+36-45,Low,Chennai,Software Engineer,Early Adopter,Business Use,High,30L+
+26-35,Middle,Pune,Retail Worker,Early Adopter,Daily Commute,Low,10L-20L
+46-60,Middle,Bangalore,Teacher,Early Adopter,Daily Commute,Medium,30L+
+26-35,Low,Mumbai,Teacher,Average User,Daily Commute,Medium,20L-30L
+36-45,Low,Hyderabad,Mechanic,Average User,Daily Commute,High,<10L
+60+,Middle,Bangalore,Business Owner,Average User,Daily Commute,High,30L+
+36-45,Low,Chennai,Driver,Late Adopter,Long Trips,Medium,10L-20L
+18-25,Middle,Kolkata,Software Engineer,Late Adopter,Daily Commute,Low,10L-20L
+60+,Low,Delhi,Business Owner,Late Adopter,Occasional Travel,Medium,10L-20L
+36-45,Low,Chennai,Driver,Average User,Occasional Travel,Low,10L-20L
+26-35,Low,Pune,Software Engineer,Average User,Occasional Travel,Medium,<10L
+18-25,High,Mumbai,Business Owner,Average User,Long Trips,High,<10L
+46-60,High,Pune,Teacher,Early Adopter,Long Trips,Medium,10L-20L
+36-45,High,Hyderabad,Teacher,Early Adopter,Daily Commute,Medium,20L-30L
+36-45,Middle,Hyderabad,Retail Worker,Average User,Long Trips,Medium,10L-20L
+46-60,Low,Mumbai,Student,Average User,Occasional Travel,Medium,30L+
+46-60,Middle,Ahmedabad,Retail Worker,Late Adopter,Business Use,Medium,10L-20L
+26-35,Middle,Bangalore,Doctor,Early Adopter,Occasional Travel,Medium,10L-20L
+26-35,High,Bangalore,Retail Worker,Average User,Business Use,High,<10L
+26-35,Low,Hyderabad,Driver,Average User,Long Trips,High,<10L
+46-60,Middle,Hyderabad,Mechanic,Average User,Daily Commute,Low,10L-20L
+18-25,Low,Kolkata,Business Owner,Average User,Occasional Travel,High,20L-30L
+36-45,Low,Delhi,Mechanic,Average User,Business Use,Medium,30L+
+46-60,Middle,Kolkata,Student,Average User,Long Trips,Low,30L+
+46-60,Middle,Kolkata,Doctor,Average User,Daily Commute,Low,<10L
+26-35,Middle,Ahmedabad,Business Owner,Early Adopter,Long Trips,Low,30L+
+46-60,Middle,Bangalore,Software Engineer,Early Adopter,Daily Commute,High,10L-20L
+18-25,Middle,Ahmedabad,Driver,Average User,Daily Commute,Medium,<10L
+46-60,Middle,Ahmedabad,Doctor,Late Adopter,Occasional Travel,Medium,30L+
+18-25,High,Mumbai,Teacher,Average User,Daily Commute,Low,20L-30L
+26-35,High,Bangalore,Student,Average User,Long Trips,Medium,<10L
+46-60,Middle,Delhi,Doctor,Average User,Daily Commute,Low,10L-20L
+18-25,Low,Pune,Driver,Late Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Hyderabad,Retail Worker,Late Adopter,Daily Commute,Medium,20L-30L
+46-60,Middle,Hyderabad,Doctor,Average User,Daily Commute,Low,10L-20L
+46-60,Low,Delhi,Retail Worker,Average User,Daily Commute,High,30L+
+36-45,High,Ahmedabad,Driver,Late Adopter,Daily Commute,Low,<10L
+36-45,Low,Kolkata,Teacher,Average User,Daily Commute,Medium,10L-20L
+36-45,High,Mumbai,Business Owner,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Ahmedabad,Software Engineer,Early Adopter,Occasional Travel,Medium,10L-20L
+26-35,Middle,Hyderabad,Teacher,Late Adopter,Daily Commute,Low,10L-20L
+26-35,Middle,Chennai,Retail Worker,Late Adopter,Occasional Travel,Low,20L-30L
+60+,High,Kolkata,Retail Worker,Early Adopter,Daily Commute,High,30L+
+36-45,Middle,Hyderabad,Software Engineer,Average User,Long Trips,Low,30L+
+26-35,Middle,Chennai,Business Owner,Average User,Business Use,High,20L-30L
+36-45,Low,Ahmedabad,Doctor,Early Adopter,Occasional Travel,High,30L+
+60+,Middle,Delhi,Software Engineer,Late Adopter,Daily Commute,Low,10L-20L
+26-35,Low,Delhi,Student,Early Adopter,Daily Commute,Low,20L-30L
+36-45,Middle,Kolkata,Student,Early Adopter,Business Use,Medium,10L-20L
+36-45,Middle,Hyderabad,Driver,Average User,Daily Commute,High,10L-20L
+36-45,Middle,Bangalore,Teacher,Average User,Daily Commute,High,10L-20L
+18-25,Low,Chennai,Retail Worker,Early Adopter,Daily Commute,Medium,10L-20L
+46-60,Low,Mumbai,Business Owner,Average User,Daily Commute,Medium,10L-20L
+60+,Middle,Hyderabad,Driver,Average User,Daily Commute,Low,30L+
+36-45,Low,Mumbai,Teacher,Early Adopter,Long Trips,High,10L-20L
+36-45,Low,Hyderabad,Teacher,Early Adopter,Daily Commute,High,<10L
+60+,Low,Bangalore,Driver,Average User,Occasional Travel,Low,10L-20L
+46-60,High,Bangalore,Mechanic,Average User,Daily Commute,Low,<10L
+26-35,Middle,Kolkata,Teacher,Late Adopter,Daily Commute,Low,<10L
+36-45,Middle,Kolkata,Mechanic,Late Adopter,Business Use,Low,<10L
+36-45,Low,Bangalore,Student,Late Adopter,Daily Commute,High,10L-20L
+26-35,Low,Pune,Student,Average User,Long Trips,Medium,10L-20L
+46-60,Middle,Bangalore,Teacher,Late Adopter,Occasional Travel,Low,20L-30L
+60+,Middle,Delhi,Student,Average User,Daily Commute,Medium,20L-30L
+60+,Low,Delhi,Business Owner,Average User,Business Use,High,10L-20L
+36-45,Low,Pune,Mechanic,Early Adopter,Daily Commute,Medium,10L-20L
+18-25,Low,Ahmedabad,Mechanic,Early Adopter,Long Trips,Medium,10L-20L
+60+,Middle,Chennai,Teacher,Average User,Daily Commute,Low,20L-30L
+46-60,Middle,Ahmedabad,Student,Average User,Long Trips,High,<10L
+18-25,Low,Mumbai,Software Engineer,Early Adopter,Daily Commute,High,<10L
+60+,Low,Ahmedabad,Retail Worker,Average User,Occasional Travel,Low,20L-30L
+46-60,Low,Hyderabad,Driver,Average User,Long Trips,Low,10L-20L
+36-45,High,Ahmedabad,Driver,Average User,Business Use,Low,<10L
+36-45,Low,Hyderabad,Mechanic,Average User,Business Use,Low,<10L
+26-35,Middle,Pune,Teacher,Late Adopter,Long Trips,Medium,30L+
+18-25,Middle,Delhi,Teacher,Late Adopter,Long Trips,High,30L+
+26-35,Middle,Kolkata,Business Owner,Average User,Daily Commute,Medium,20L-30L
+46-60,Low,Hyderabad,Doctor,Average User,Daily Commute,High,10L-20L
+18-25,Low,Delhi,Retail Worker,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Chennai,Doctor,Late Adopter,Daily Commute,Medium,30L+
+26-35,Middle,Mumbai,Mechanic,Average User,Daily Commute,Medium,30L+
+36-45,Middle,Chennai,Driver,Early Adopter,Occasional Travel,Low,<10L
+60+,Middle,Pune,Business Owner,Early Adopter,Daily Commute,Medium,20L-30L
+26-35,Low,Ahmedabad,Business Owner,Average User,Occasional Travel,Medium,<10L
+26-35,High,Ahmedabad,Business Owner,Average User,Daily Commute,Low,<10L
+46-60,Middle,Bangalore,Mechanic,Late Adopter,Daily Commute,Medium,20L-30L
+36-45,Low,Bangalore,Doctor,Early Adopter,Occasional Travel,Medium,10L-20L
+26-35,High,Bangalore,Driver,Average User,Long Trips,High,30L+
+36-45,Middle,Chennai,Business Owner,Late Adopter,Long Trips,Medium,<10L
+18-25,Middle,Hyderabad,Driver,Late Adopter,Occasional Travel,High,10L-20L
+26-35,Middle,Mumbai,Student,Average User,Daily Commute,Medium,30L+
+36-45,High,Bangalore,Teacher,Average User,Occasional Travel,Medium,30L+
+26-35,Middle,Pune,Teacher,Average User,Daily Commute,Medium,<10L
+60+,Low,Pune,Driver,Late Adopter,Daily Commute,High,10L-20L
+26-35,Low,Bangalore,Software Engineer,Early Adopter,Occasional Travel,Medium,20L-30L
+36-45,High,Ahmedabad,Software Engineer,Late Adopter,Daily Commute,Medium,<10L
+36-45,Low,Bangalore,Mechanic,Average User,Daily Commute,Medium,30L+
+18-25,Middle,Mumbai,Mechanic,Average User,Business Use,Medium,30L+
+36-45,Middle,Bangalore,Teacher,Early Adopter,Business Use,Low,<10L
+26-35,Middle,Mumbai,Student,Average User,Daily Commute,Low,<10L
+60+,Middle,Pune,Retail Worker,Average User,Daily Commute,Low,<10L
+18-25,High,Bangalore,Doctor,Early Adopter,Daily Commute,High,30L+
+26-35,Low,Chennai,Doctor,Average User,Daily Commute,Low,<10L
+18-25,Low,Kolkata,Mechanic,Late Adopter,Business Use,Low,10L-20L
+60+,Low,Chennai,Student,Average User,Daily Commute,Medium,10L-20L
+36-45,High,Pune,Mechanic,Average User,Long Trips,Medium,10L-20L
+36-45,Middle,Mumbai,Retail Worker,Early Adopter,Daily Commute,Medium,<10L
+18-25,Low,Chennai,Doctor,Average User,Business Use,Low,<10L
+46-60,High,Mumbai,Driver,Early Adopter,Daily Commute,High,30L+
+26-35,High,Chennai,Mechanic,Average User,Long Trips,High,30L+
+46-60,High,Chennai,Business Owner,Late Adopter,Daily Commute,High,20L-30L
+26-35,High,Mumbai,Driver,Average User,Occasional Travel,Medium,<10L
+26-35,Low,Hyderabad,Retail Worker,Early Adopter,Daily Commute,Medium,10L-20L
+18-25,Middle,Chennai,Retail Worker,Average User,Daily Commute,Low,20L-30L
+36-45,Middle,Bangalore,Mechanic,Average User,Business Use,Low,10L-20L
+36-45,High,Kolkata,Teacher,Average User,Business Use,Low,30L+
+18-25,Middle,Pune,Mechanic,Late Adopter,Long Trips,Medium,20L-30L
+46-60,Middle,Hyderabad,Teacher,Late Adopter,Occasional Travel,Medium,<10L
+36-45,Middle,Mumbai,Retail Worker,Average User,Long Trips,Medium,30L+
+36-45,Low,Hyderabad,Student,Average User,Daily Commute,Low,30L+
+26-35,Middle,Delhi,Retail Worker,Average User,Daily Commute,Medium,<10L
+26-35,High,Delhi,Doctor,Early Adopter,Daily Commute,Medium,10L-20L
+36-45,High,Chennai,Driver,Average User,Occasional Travel,Medium,10L-20L
+26-35,Low,Chennai,Driver,Average User,Daily Commute,Medium,10L-20L
+26-35,Low,Bangalore,Software Engineer,Average User,Daily Commute,Low,<10L
+46-60,Low,Kolkata,Software Engineer,Average User,Occasional Travel,High,10L-20L
+60+,Middle,Pune,Retail Worker,Early Adopter,Long Trips,Medium,30L+
+26-35,High,Hyderabad,Doctor,Average User,Daily Commute,Low,10L-20L
+26-35,Low,Delhi,Software Engineer,Early Adopter,Daily Commute,Low,<10L
+36-45,Middle,Chennai,Driver,Early Adopter,Daily Commute,Medium,20L-30L
+26-35,High,Ahmedabad,Mechanic,Late Adopter,Daily Commute,High,10L-20L
+18-25,Middle,Ahmedabad,Student,Early Adopter,Daily Commute,Medium,30L+
+26-35,Middle,Pune,Student,Average User,Occasional Travel,Low,10L-20L
+46-60,Middle,Hyderabad,Doctor,Early Adopter,Occasional Travel,High,<10L
+36-45,Middle,Chennai,Retail Worker,Late Adopter,Occasional Travel,Medium,<10L
+18-25,Low,Chennai,Software Engineer,Average User,Daily Commute,Medium,20L-30L
+26-35,Middle,Delhi,Mechanic,Early Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Delhi,Student,Average User,Daily Commute,Low,20L-30L
+36-45,High,Chennai,Student,Average User,Occasional Travel,Medium,<10L
+18-25,Middle,Mumbai,Business Owner,Late Adopter,Long Trips,Medium,10L-20L
+18-25,Middle,Chennai,Retail Worker,Early Adopter,Daily Commute,High,10L-20L
+46-60,Low,Pune,Business Owner,Late Adopter,Daily Commute,Medium,30L+
+26-35,Middle,Chennai,Driver,Late Adopter,Long Trips,Medium,30L+
+36-45,Low,Bangalore,Student,Late Adopter,Daily Commute,Medium,<10L
+26-35,Low,Kolkata,Doctor,Average User,Occasional Travel,High,10L-20L
+18-25,Middle,Bangalore,Teacher,Average User,Daily Commute,High,<10L
+26-35,High,Bangalore,Teacher,Average User,Occasional Travel,Medium,10L-20L
+46-60,Low,Mumbai,Mechanic,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Mumbai,Student,Average User,Daily Commute,Medium,30L+
+46-60,High,Ahmedabad,Student,Average User,Occasional Travel,Medium,30L+
+26-35,Low,Chennai,Driver,Average User,Daily Commute,Low,10L-20L
+36-45,Middle,Bangalore,Student,Average User,Daily Commute,Medium,10L-20L
+26-35,Middle,Mumbai,Doctor,Late Adopter,Daily Commute,Low,30L+
+26-35,Middle,Delhi,Business Owner,Early Adopter,Daily Commute,High,20L-30L
+46-60,Low,Chennai,Student,Late Adopter,Daily Commute,Medium,<10L
+18-25,Middle,Pune,Student,Average User,Daily Commute,High,10L-20L
+18-25,Middle,Kolkata,Driver,Late Adopter,Business Use,Medium,10L-20L
+26-35,Middle,Hyderabad,Retail Worker,Average User,Daily Commute,Medium,<10L
+18-25,Low,Chennai,Software Engineer,Average User,Occasional Travel,Medium,<10L
+26-35,Middle,Hyderabad,Retail Worker,Late Adopter,Daily Commute,Low,<10L
+36-45,Low,Bangalore,Driver,Average User,Daily Commute,Medium,20L-30L
+26-35,Middle,Kolkata,Retail Worker,Late Adopter,Business Use,Low,10L-20L
+46-60,Low,Hyderabad,Driver,Average User,Daily Commute,Medium,<10L
+46-60,High,Bangalore,Doctor,Average User,Business Use,Medium,<10L
+26-35,Middle,Delhi,Mechanic,Average User,Daily Commute,Medium,20L-30L
+26-35,Low,Hyderabad,Student,Average User,Long Trips,Low,30L+
+26-35,Low,Kolkata,Driver,Average User,Occasional Travel,Low,10L-20L
+36-45,Low,Ahmedabad,Driver,Early Adopter,Long Trips,Medium,10L-20L
+26-35,High,Chennai,Software Engineer,Average User,Occasional Travel,High,30L+
+36-45,High,Bangalore,Driver,Early Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Chennai,Teacher,Late Adopter,Daily Commute,Medium,<10L
+36-45,Middle,Kolkata,Mechanic,Late Adopter,Daily Commute,Medium,10L-20L
+26-35,Middle,Mumbai,Student,Average User,Business Use,Low,<10L
+26-35,High,Bangalore,Student,Average User,Daily Commute,High,10L-20L
+60+,Middle,Hyderabad,Software Engineer,Average User,Daily Commute,Medium,30L+
+46-60,Middle,Bangalore,Doctor,Average User,Long Trips,Low,20L-30L
+18-25,Middle,Chennai,Student,Late Adopter,Daily Commute,Medium,10L-20L
+46-60,Middle,Delhi,Teacher,Late Adopter,Business Use,Low,30L+
+36-45,Low,Bangalore,Student,Average User,Long Trips,High,<10L
+46-60,Middle,Hyderabad,Teacher,Late Adopter,Occasional Travel,Low,<10L
+46-60,Middle,Mumbai,Mechanic,Average User,Long Trips,Medium,10L-20L
+26-35,Middle,Ahmedabad,Mechanic,Late Adopter,Daily Commute,Low,20L-30L
+18-25,Low,Pune,Business Owner,Early Adopter,Daily Commute,Medium,<10L
+26-35,Middle,Delhi,Business Owner,Average User,Occasional Travel,Medium,10L-20L
+36-45,Middle,Ahmedabad,Teacher,Average User,Daily Commute,Medium,20L-30L
+36-45,Middle,Mumbai,Doctor,Average User,Long Trips,Medium,20L-30L
+26-35,Low,Bangalore,Student,Early Adopter,Business Use,High,20L-30L
+18-25,Middle,Chennai,Driver,Late Adopter,Occasional Travel,Low,10L-20L
+46-60,Middle,Kolkata,Student,Early Adopter,Daily Commute,Medium,<10L
+60+,Middle,Chennai,Business Owner,Average User,Business Use,Low,10L-20L
+36-45,Middle,Ahmedabad,Retail Worker,Early Adopter,Occasional Travel,High,<10L
+26-35,Middle,Hyderabad,Driver,Average User,Occasional Travel,Medium,30L+
+26-35,High,Chennai,Teacher,Average User,Daily Commute,Medium,10L-20L
+18-25,Low,Delhi,Driver,Average User,Business Use,Medium,10L-20L
+60+,High,Chennai,Retail Worker,Early Adopter,Occasional Travel,Low,20L-30L
+18-25,Middle,Hyderabad,Student,Early Adopter,Long Trips,Low,10L-20L
+36-45,Low,Pune,Student,Average User,Long Trips,Low,10L-20L
+26-35,Low,Bangalore,Doctor,Late Adopter,Daily Commute,Medium,20L-30L
+36-45,Low,Kolkata,Software Engineer,Late Adopter,Occasional Travel,Low,30L+
+36-45,Middle,Ahmedabad,Driver,Early Adopter,Long Trips,Low,20L-30L
+46-60,Middle,Bangalore,Business Owner,Average User,Daily Commute,High,<10L
+26-35,Middle,Chennai,Retail Worker,Early Adopter,Long Trips,High,10L-20L
+18-25,Middle,Mumbai,Retail Worker,Early Adopter,Business Use,Medium,20L-30L
+18-25,Middle,Bangalore,Retail Worker,Average User,Occasional Travel,Medium,<10L
+60+,Low,Pune,Business Owner,Average User,Long Trips,Low,<10L
+46-60,Low,Chennai,Software Engineer,Early Adopter,Long Trips,Medium,30L+
+36-45,Middle,Kolkata,Student,Early Adopter,Long Trips,High,<10L
+36-45,Low,Hyderabad,Doctor,Early Adopter,Daily Commute,Low,20L-30L
+36-45,Low,Pune,Doctor,Late Adopter,Daily Commute,Low,10L-20L
+26-35,Middle,Chennai,Business Owner,Late Adopter,Occasional Travel,Medium,10L-20L
+60+,Middle,Pune,Doctor,Early Adopter,Occasional Travel,Medium,<10L
+26-35,High,Bangalore,Retail Worker,Early Adopter,Occasional Travel,Low,20L-30L
+26-35,High,Kolkata,Mechanic,Late Adopter,Long Trips,Medium,10L-20L
+36-45,Middle,Hyderabad,Software Engineer,Late Adopter,Daily Commute,Medium,10L-20L
+18-25,Middle,Chennai,Student,Average User,Occasional Travel,Medium,20L-30L
+26-35,Middle,Delhi,Mechanic,Early Adopter,Daily Commute,Medium,20L-30L
+46-60,Middle,Ahmedabad,Software Engineer,Early Adopter,Long Trips,High,30L+
+18-25,Low,Hyderabad,Teacher,Average User,Occasional Travel,Medium,10L-20L
+36-45,Middle,Delhi,Driver,Average User,Daily Commute,High,10L-20L
+26-35,High,Pune,Business Owner,Early Adopter,Daily Commute,Medium,30L+
+26-35,Middle,Mumbai,Retail Worker,Average User,Long Trips,Medium,20L-30L
+26-35,Middle,Hyderabad,Doctor,Early Adopter,Occasional Travel,Medium,10L-20L
+26-35,Middle,Pune,Teacher,Late Adopter,Daily Commute,High,<10L
+46-60,Low,Delhi,Doctor,Average User,Business Use,High,20L-30L
+26-35,Middle,Bangalore,Mechanic,Early Adopter,Long Trips,Low,10L-20L
+36-45,Low,Bangalore,Student,Average User,Business Use,High,20L-30L
+36-45,Low,Mumbai,Student,Average User,Occasional Travel,High,10L-20L
+36-45,Low,Ahmedabad,Student,Late Adopter,Occasional Travel,Medium,<10L
+60+,High,Hyderabad,Retail Worker,Average User,Long Trips,Low,20L-30L
+46-60,Low,Hyderabad,Doctor,Average User,Occasional Travel,High,<10L
+26-35,Middle,Hyderabad,Teacher,Average User,Long Trips,High,10L-20L
+18-25,Low,Ahmedabad,Student,Average User,Daily Commute,Low,10L-20L
+26-35,High,Pune,Teacher,Late Adopter,Occasional Travel,High,10L-20L
+36-45,Low,Kolkata,Doctor,Average User,Daily Commute,Low,20L-30L
+18-25,Middle,Kolkata,Retail Worker,Average User,Daily Commute,Low,20L-30L
+36-45,High,Mumbai,Mechanic,Early Adopter,Daily Commute,Medium,20L-30L
+36-45,High,Hyderabad,Retail Worker,Average User,Daily Commute,Medium,<10L
+26-35,Low,Pune,Teacher,Late Adopter,Business Use,Medium,<10L
+46-60,High,Bangalore,Retail Worker,Late Adopter,Daily Commute,Low,10L-20L
+18-25,Middle,Delhi,Retail Worker,Early Adopter,Occasional Travel,High,30L+
+18-25,Middle,Pune,Mechanic,Early Adopter,Long Trips,Low,20L-30L
+46-60,Low,Ahmedabad,Doctor,Late Adopter,Occasional Travel,Low,20L-30L
+36-45,Low,Kolkata,Doctor,Late Adopter,Daily Commute,Low,10L-20L
+36-45,Middle,Kolkata,Business Owner,Early Adopter,Long Trips,Medium,10L-20L
+26-35,Middle,Bangalore,Retail Worker,Average User,Occasional Travel,High,10L-20L
+26-35,Middle,Bangalore,Doctor,Average User,Long Trips,Medium,<10L
+46-60,Middle,Ahmedabad,Doctor,Late Adopter,Long Trips,High,<10L
+46-60,Middle,Delhi,Software Engineer,Early Adopter,Business Use,Low,30L+
+36-45,Low,Bangalore,Student,Early Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Mumbai,Business Owner,Late Adopter,Daily Commute,Medium,<10L
+36-45,Low,Delhi,Driver,Early Adopter,Occasional Travel,Medium,<10L
+26-35,Middle,Bangalore,Business Owner,Average User,Daily Commute,Low,30L+
+18-25,Middle,Chennai,Business Owner,Average User,Long Trips,Medium,10L-20L
+60+,High,Pune,Driver,Average User,Daily Commute,Medium,20L-30L
+18-25,Low,Bangalore,Software Engineer,Average User,Daily Commute,Medium,30L+
+60+,Low,Mumbai,Retail Worker,Average User,Long Trips,Medium,10L-20L
+26-35,Low,Hyderabad,Mechanic,Early Adopter,Occasional Travel,Low,20L-30L
